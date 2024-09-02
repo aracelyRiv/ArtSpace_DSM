@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="ia_title">Artificial Intelligence</string>
+    <string name="ia_year">2024</string>
+    <string name="dragon_title">Dragon</string>
+    <string name="dragon_year">2023</string>
+</resources>
+
